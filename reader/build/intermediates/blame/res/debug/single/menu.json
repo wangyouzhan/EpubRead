@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]

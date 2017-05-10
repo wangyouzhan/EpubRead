@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Users\\linksus\\.android\\build-cache\\20e2adfe8bd4415d13e4cc021f71b5d3c64babe1\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 52,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 51,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\Users\\linksus\\.android\\build-cache\\20e2adfe8bd4415d13e4cc021f71b5d3c64babe1\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 51,
+                        "endOffset": 273
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Users\\apple\\.android\\build-cache\\35c0f9c38b0bc38e4ba84f016d4260530a704e6d\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 52,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 51,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\Users\\apple\\.android\\build-cache\\35c0f9c38b0bc38e4ba84f016d4260530a704e6d\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 51,
+                        "endOffset": 273
+                    }
+                }
+            }
+        ]
+    }
+]

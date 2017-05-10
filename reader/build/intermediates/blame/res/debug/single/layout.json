@@ -1,0 +1,730 @@
+[
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\string_preference_dialog.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\string_preference_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\superactivitytoast_progresscircle.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\layout\\superactivitytoast_progresscircle.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\supercardtoast.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\layout\\supercardtoast.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\listview_toc.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\listview_toc.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\item_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\superactivitytoast_button.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\layout\\superactivitytoast_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\color_preference.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\color_preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\list_bookmarks.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\list_bookmarks.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\toc_tree_item.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\toc_tree_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\selection_panel.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\selection_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\superactivitytoast_button.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\layout\\superactivitytoast_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\selection_panel.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\selection_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\mainmenu.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\toc_tree_item.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\toc_tree_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\setting_head.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\setting_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\bug_report_view.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\bug_report_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\supertoast.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\layout\\supertoast.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\bookmark_panel.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\bookmark_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\setting_panel.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\setting_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\aboutuser.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\aboutuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\color_preference.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\color_preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\aboutuser.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\aboutuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\library_tree_item.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\library_tree_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\bookmarks.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\bookmarks.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\superactivitytoast_progresshorizontal.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\layout\\superactivitytoast_progresshorizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\layout_hd_builder_dialog.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\layout_hd_builder_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\listview_localbook.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\listview_localbook.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\supercardtoast_progresscircle.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\layout\\supercardtoast_progresscircle.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\ambilwarna_pref_widget.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\35c0f9c38b0bc38e4ba84f016d4260530a704e6d\\output\\res\\layout\\ambilwarna_pref_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\supercardtoast_button.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\layout\\supercardtoast_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\supercardtoast_progresshorizontal.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\layout\\supercardtoast_progresshorizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\setting_panel.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\setting_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\bookmark_item.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\bookmark_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photoview.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\activity_photoview.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\supercardtoast.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\layout\\supercardtoast.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\include_toolbar.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\include_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\bookmark_item.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\bookmark_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\list_bookmarks.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\list_bookmarks.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\layout_hd_dialog_custom_tv.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\layout_hd_dialog_custom_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\dummy_layout.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\layout\\dummy_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\item_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\ambilwarna_dialog.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\20e2adfe8bd4415d13e4cc021f71b5d3c64babe1\\output\\res\\layout\\ambilwarna_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\superactivitytoast_progresshorizontal.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\layout\\superactivitytoast_progresshorizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\mainmenu.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\library_tree_item.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\library_tree_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\style_item.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\style_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\bookmark_panel.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\bookmark_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\ambilwarna_pref_widget.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\20e2adfe8bd4415d13e4cc021f71b5d3c64babe1\\output\\res\\layout\\ambilwarna_pref_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\edit_bookmark.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\edit_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\listview_localbook.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\listview_localbook.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\string_preference_dialog.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\string_preference_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\listview_toc.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\listview_toc.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\list_bookmark.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\list_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photoview.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\activity_photoview.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\superactivitytoast_progresscircle.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\layout\\superactivitytoast_progresscircle.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\bookmarks.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\bookmarks.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_panel.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\navigation_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\ambilwarna_dialog.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\35c0f9c38b0bc38e4ba84f016d4260530a704e6d\\output\\res\\layout\\ambilwarna_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\dummy_layout.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\layout\\dummy_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\bug_report_view.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\bug_report_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\edit_bookmark.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\edit_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\style_item.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\style_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\supertoast.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\layout\\supertoast.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\list_bookmark.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\list_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\supercardtoast_progresshorizontal.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\layout\\supercardtoast_progresshorizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\supercardtoast_progresscircle.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\layout\\supercardtoast_progresscircle.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\setting_head.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\setting_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_panel.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\navigation_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\list_note.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\list_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\supercardtoast_button.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\layout\\supercardtoast_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\1671da17cd2801f9a0efd379502e3783c559be31\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\layout_hd_builder_dialog.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\layout_hd_builder_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\502946a3d38d86ff5fe35d615b05418abadc3217\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\6fe53f96e0bdac3d46c4b22af48110e167be10b0\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\4aebc5463a02c20ff912219b8f1abfb9d884c87b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\list_note.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\list_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\layout_hd_dialog_custom_tv.xml",
+        "source": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\src\\main\\res\\layout\\layout_hd_dialog_custom_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\debug\\layout\\include_toolbar.xml",
+        "source": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\src\\main\\res\\layout\\include_toolbar.xml"
+    }
+]

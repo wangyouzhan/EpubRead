@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_share.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_dark_share.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_redo.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_dark_redo.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_exit.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_light_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ambilwarna_cursor.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\35c0f9c38b0bc38e4ba84f016d4260530a704e6d\\output\\res\\drawable-xhdpi\\ambilwarna_cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_save.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_light_save.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ambilwarna_arrow_right.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\20e2adfe8bd4415d13e4cc021f71b5d3c64babe1\\output\\res\\drawable-xhdpi\\ambilwarna_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_info.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_light_info.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ambilwarna_target.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\20e2adfe8bd4415d13e4cc021f71b5d3c64babe1\\output\\res\\drawable-xhdpi\\ambilwarna_target.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_redo.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_light_redo.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_edit.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_light_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_edit.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_light_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_undo.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_dark_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_info.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_dark_info.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ambilwarna_arrow_right.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\35c0f9c38b0bc38e4ba84f016d4260530a704e6d\\output\\res\\drawable-xhdpi\\ambilwarna_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_exit.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_light_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ambilwarna_cursor.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\20e2adfe8bd4415d13e4cc021f71b5d3c64babe1\\output\\res\\drawable-xhdpi\\ambilwarna_cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_refresh.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_light_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_share.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_light_share.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_save.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_dark_save.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ambilwarna_arrow_down.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\35c0f9c38b0bc38e4ba84f016d4260530a704e6d\\output\\res\\drawable-xhdpi\\ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_refresh.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_light_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_undo.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_dark_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_refresh.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_dark_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ambilwarna_target.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\35c0f9c38b0bc38e4ba84f016d4260530a704e6d\\output\\res\\drawable-xhdpi\\ambilwarna_target.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_exit.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_dark_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_share.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_light_share.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_edit.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_dark_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\ambilwarna_arrow_down.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\20e2adfe8bd4415d13e4cc021f71b5d3c64babe1\\output\\res\\drawable-xhdpi\\ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_redo.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_light_redo.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_info.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_light_info.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_exit.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_dark_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_save.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_light_save.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_redo.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_dark_redo.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_refresh.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_dark_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_save.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_dark_save.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_undo.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_light_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_edit.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_dark_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\apple\\Documents\\NineStars\\NineStarsReader\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_share.png",
+        "source": "C:\\Users\\apple\\.android\\build-cache\\7efd62337cd1d6f304fee543968317a585f4935f\\output\\res\\drawable-xhdpi\\icon_dark_share.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_light_undo.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_light_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\linksus\\Desktop\\demo\\ReaderDemo\\reader\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi\\icon_dark_info.png",
+        "source": "C:\\Users\\linksus\\.android\\build-cache\\cc20ba0e87d44d212912c03e39d11245e41de48f\\output\\res\\drawable-xhdpi\\icon_dark_info.png"
+    }
+]
